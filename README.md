@@ -1,7 +1,9 @@
 <h1> TFRecord_USA_RoadSigns </h1>
-This is a TFRecord dataset of USA_RoadSigns derived from <a href="https://github.com/sarah-antillia/YOLO_USA_RoadSigns">YOLO_USA_RoadSigns</a>.
 
+This is a TFRecord dataset of USA_RoadSign derived from <a href="https://github.com/sarah-antillia/YOLO_USA_RoadSigns">YOLO_USA_RoadSigns</a>.
 <br>
+ The dataset TFRecord_USA_RoadSigns contains 153 classes,and each image size is 512x512.<br>
+ The dataset TFRecord_USA_RoadSigns_86classes contains 86 classes,and each image size is 512x512.<br>
 
 <br>
 <h2>Images of Base USA RoadSigns</h2>
