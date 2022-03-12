@@ -4,6 +4,30 @@ This is a TFRecord dataset of USA_RoadSign derived from <a href="https://github.
 <br>
  The dataset TFRecord_USA_RoadSigns contains 153 classes,and each image size is 512x512.<br>
  The dataset TFRecord_USA_RoadSigns_86classes contains 86 classes,and each image size is 512x512.<br>
+<br>
+<h2>
+YOLO annotated dataset
+</h2>
+We have created the following TFRecord annotated dataset.<br>
+<a href="./TFRecord_USA_RoadSigns_86classes_Medium.zip">TFRecord_USA_RoadSigns_86classes_Medium</a><br>
+<a href="./TFRecord_USA_RoadSigns_86classes_Small.zip">TFRecord_USA_RoadSigns_86classes_Small</a><br>
+<a href="./TFRecord_USA_RoadSigns_86classes_Tiny.zip">TFRecord_USA_RoadSigns_86classes_Tiny</a><br>
+<br>
+Sample images: Addedd_lane class<br>
+<table>
+<tr>
+<td>
+Medium<br><img src="./asset/Added_lane_0_102.jpg">
+</td>
+<td>
+Small<br><img src="./asset/Added_lane_0_461.jpg">
+</td>
+<td>
+Tiny<br><img src="./asset/Added_lane_1_0_3189.jpg">
+</td>
+</tr>
+</table>
+
 
 <br>
 <h2>Images of Base USA RoadSigns</h2>
